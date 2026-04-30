@@ -5,7 +5,7 @@
 1. clone it
 
 ```bash
-git clone https://github.com/akshay782/venue_booking_site.git
+git clone https://https://github.com/Mitultopiya/Venue_Booking_Site.git
 # go to project directory
 cd venue_booking_site
 ```
@@ -53,6 +53,3 @@ git add .
 git commit -m "message"
 git push
 ```
-
-- **Note** \
-  Please don't commit on **main** branch
