@@ -6,7 +6,7 @@
 
 ```bash
 git clone https://https://github.com/Mitultopiya/Venue_Booking_Site.git
-# go to project directory
+
 cd venue_booking_site
 ```
 
